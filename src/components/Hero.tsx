@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
       <div 
         className="absolute inset-0 bg-cover bg-center opacity-60 blur-[1px]"
-        style={{ backgroundImage: "url('src/assets/bg.jpg')" }}
+        style={{ backgroundImage: "url('/images/bg.jpg')" }}
       />
       <div className="absolute inset-0 bg-gradient-to-br from-transparent via-black/20 to-black/90" />
 
@@ -74,7 +74,7 @@ const Hero = () => {
             <div className="relative overflow-hidden rounded-[28px] bg-black/30">
               <div className="absolute inset-0 bg-[radial-gradient(circle,_rgba(255,255,255,0.18),transparent_40%)]" />
               <img
-                src="src/assets/hero-bg.jpg"
+                src="/images/hero-bg.jpg"
                 alt="Seblak panas"
                 className="h-full w-full object-cover mix-blend-screen"
                 loading="lazy"

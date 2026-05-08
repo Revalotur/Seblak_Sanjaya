@@ -8,21 +8,21 @@ const reviews = [
     role: 'Food Antusiast',
     quote: 'Kuahnya nagih banget! Pedasnya pas, dan toppingnya bikin seblak ini jadi andalan akhir pekan.',
     rating: 5,
-    avatar: 'src/assets/ilham.jpg',
+    avatar: '/images/ilham.jpg',
   },
   {
     name: 'Mufti',
     role: 'Pecinta Kuliner',
     quote: 'Toppingnya banyak parah. Bisa custom level pedas jadi cocok untuk semua selera.',
     rating: 4,
-    avatar: 'src/assets/mufti.jpg',
+    avatar: '/images/mufti.jpg',
   },
   {
     name: 'Aulia',
     role: 'Food Vlogger',
     quote: 'Pedesnya mantap. Setiap suapan terasa penuh rasa dan tekstur crunchy dari topping.',
     rating: 5,
-    avatar: 'src/assets/teguh.jpg',
+    avatar: '/images/teguh.jpg',
   },
 ]
 

@@ -6,31 +6,31 @@ const menuItems = [
     name: 'Seblak Original',
     price: '35k',
     rating: 4.9,
-    image: 'src/assets/original.jpg',
+    image: '/images/original.jpg',
   },
   {
     name: 'Seblak Seafood',
     price: '42k',
     rating: 4.8,
-    image: 'src/assets/seafood.jpg',
+    image: '/images/seafood.jpg',
   },
   {
     name: 'Seblak Ceker',
     price: '38k',
     rating: 4.7,
-    image: 'src/assets/ceker.jpg',
+    image: '/images/ceker.jpg',
   },
   {
     name: 'Seblak Bakso',
     price: '40k',
     rating: 4.8,
-    image: 'src/assets/bakso.jpg',
+    image: '/images/bakso.jpg',
   },
   {
     name: 'Aneka Topping Prasmanan',
     price: '28k+',
     rating: 4.9,
-    image: 'src/assets/aneka.jpg',
+    image: '/images/aneka.jpg',
   },
 ]
 
